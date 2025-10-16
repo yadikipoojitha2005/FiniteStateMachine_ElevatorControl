@@ -20,3 +20,5 @@ The state machine maintains states representing elevator positions and movements
 State transitions depend on floor requests and elevator direction.
 Reset initializes the elevator to floor 0 (state = A).
 Controlled on negative edge of the clock for synchronization.
+<img width="1292" height="249" alt="image" src="https://github.com/user-attachments/assets/cead42d8-3c67-4c5f-99f7-ed8bb0ecf70c" />
+
